@@ -25,8 +25,8 @@ public class donguler {
         Scanner input =new Scanner(System.in);
         while(true){
             System.out.println("bir sayi giriniz : ");
-            int sayi=input.nextInt();
-            if(sayi==0){
+            int sayi2 =input.nextInt();
+            if(sayi2==0){
                 break;
             }
         }
