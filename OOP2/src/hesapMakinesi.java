@@ -10,6 +10,7 @@ public class hesapMakinesi {
     }
 
     public int topla(){
+
         return this.sayi1+this.sayi2;
     }
     public int cıkar(){
