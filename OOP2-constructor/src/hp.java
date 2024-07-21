@@ -1,5 +1,5 @@
 
-public class Main {
+public class hp {
     public static void main(String[] args) {
         hesapMakinesi mak1=new hesapMakinesi(10,5,"siyah");
 
