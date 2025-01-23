@@ -1,2 +1,2 @@
-Bu repo ; 
-java diline,syntaxına ve konularına en baştan basit kod parçaları ile göz atmak için oluşturulmuştur.
+This repository; 
+It was created to take a look at the Java language, syntax and topics from scratch with simple code pieces.
